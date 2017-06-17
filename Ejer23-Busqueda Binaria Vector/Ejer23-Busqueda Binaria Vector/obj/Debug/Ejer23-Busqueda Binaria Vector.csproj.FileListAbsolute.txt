@@ -1,0 +1,9 @@
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\bin\Debug\Ejer23-Busqueda Binaria Vector.exe.config
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\bin\Debug\Ejer23-Busqueda Binaria Vector.exe
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\bin\Debug\Ejer23-Busqueda Binaria Vector.pdb
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23-Busqueda Binaria Vector.csprojResolveAssemblyReference.cache
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23_Busqueda_Binaria_Vector.Form1.resources
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23_Busqueda_Binaria_Vector.Properties.Resources.resources
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23-Busqueda Binaria Vector.csproj.GenerateResource.Cache
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23-Busqueda Binaria Vector.exe
+E:\Estructura de datos\2da Parcial\Ejer23-Busqueda Binaria Vector\Ejer23-Busqueda Binaria Vector\obj\Debug\Ejer23-Busqueda Binaria Vector.pdb
